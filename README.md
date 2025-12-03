@@ -1,4 +1,4 @@
-# Hi, I'm Tiffany 👋  
+# Hi, I'm Tiffany 🌻  
 **Staff Product Manager · Public Health Data · Healthcare Systems**
 
 I translate complex healthcare and public-health problems into clear, buildable technical solutions. I partner closely with engineering and data teams to design workflows, ship features, and deliver measurable impact for agencies and healthcare organizations.
@@ -23,5 +23,5 @@ I translate complex healthcare and public-health problems into clear, buildable 
 ---
 
 ## 👋 Let's Connect
-🚀 Portfolio: https://tiffanyportfolio.carrd.co
-👩🏻‍💻 LinkedIn: https://www.linkedin.com/in/tiffanyjyu
+- 🚀 **Portfolio:** https://tiffanyportfolio.carrd.co
+- 👩🏻‍💻 **LinkedIn:** https://www.linkedin.com/in/tiffanyjyu
