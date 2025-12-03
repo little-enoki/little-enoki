@@ -14,7 +14,7 @@ I translate complex healthcare and public-health problems into clear, buildable 
 
 ---
 
-## 🧰 Technical Fluency
+## ⚙️ Technical Fluency
 - **Languages & Tools:** Python, SQL, R, Excel
 - **Tools:** Power BI, Tableau, Co-Pilot, Azure, ChatGPT, Adobe Analytics & Experience Platform, Zapier, Power Automate, Figma, Rally, Jira
 - **Product Skills:** Requirements writing, system design collaboration, user flow mapping, API-adjacent comprehension  
