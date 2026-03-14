@@ -1,5 +1,5 @@
 # Hi, I'm Tiffany 🌻  
-**Staff Product Manager · Public Health Data · Healthcare Systems**
+**Staff Product Manager · Data Scientist · Healthcare Systems & Public Health**
 
 I translate complex healthcare and public-health problems into clear, buildable technical solutions. I partner closely with engineering and data teams to design workflows, ship features, and deliver measurable impact for agencies and healthcare organizations.
 
