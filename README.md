@@ -7,7 +7,7 @@ I translate problems in complex environments into clear, buildable technical sol
 - 🧭 Drive product strategy in complex environments
 - 🛠 Collaborate deeply with engineers, analysts, and data teams  
 - 🧬 Design data workflows, reporting logic, and system requirements  
-- 📊 Build clarity around healthcare operations (claims, resource allocation, policy workflows)  
+- 📊 Build reporting frameworks and translate outcomes into value stories
 - 🤝 Align technical teams + non-technical stakeholders 
 
 ---
