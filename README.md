@@ -1,12 +1,10 @@
 # Hi, I'm Tiffany 🍄 
-**Problem Solver for Payers, Providers, & Public Health**
-
-I translate complex healthcare and public-health problems into clear, buildable technical solutions. I partner closely with engineering and data teams to design workflows, ship features, and deliver measurable impact for agencies and healthcare organizations.
+I translate problems in complex environments into clear, buildable technical solutions. I partner closely with engineering and data teams to design workflows, ship features, and deliver measurable impact for agencies and healthcare organizations.
 
 ---
 
 ## 🚀 What I Do
-- 🧭 Drive product strategy in healthcare + public health  
+- 🧭 Drive product strategy in complex environments
 - 🛠 Collaborate deeply with engineers, analysts, and data teams  
 - 🧬 Design data workflows, reporting logic, and system requirements  
 - 📊 Build clarity around healthcare operations (claims, resource allocation, policy workflows)  
@@ -16,7 +14,7 @@ I translate complex healthcare and public-health problems into clear, buildable 
 
 ## ⚙️ Technical Fluency
 - **Languages & Tools:** Python, SQL, R, Excel
-- **Tools:** Power BI, Tableau, Co-Pilot, Azure, ChatGPT, Anthropic, Adobe Analytics & Experience Platform, Zapier, Power Automate, Figma, Rally, Jira
+- **Tools:** Power BI, Tableau, Co-Pilot, Azure, ChatGPT, Claude Code, Adobe Analytics & Experience Platform, Zapier, Power Automate, Figma, Rally, Jira
 - **Product Skills:** Agile/Scrum Methods, requirements writing, system design collaboration, user flow mapping, API-adjacent comprehension  
 - **Domain Strength:** Enterprise AI strategy, digital experiences, complex platform builds, healthcare analytics modernization
 
