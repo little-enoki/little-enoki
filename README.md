@@ -1,4 +1,4 @@
-# Hi, I'm Tiffany 🍄 
+# Hi, I'm Tiffany 🌸
 I translate problems in complex environments into clear, buildable technical solutions. I partner closely with engineering and data teams to design workflows, ship features, and deliver measurable impact at scale.
 
 ---
