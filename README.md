@@ -3,7 +3,7 @@ I'm a seasoned product leader with experience leading AI programs end-to-end acr
 
 ---
 
-## 🚀 What I Do
+## What I Do
 - 🧭 Drive product strategy in complex environments
 - 🛠 Collaborate deeply with engineers, analysts, and data teams  
 - 🧬 Design data workflows, reporting logic, and system requirements  
@@ -12,7 +12,7 @@ I'm a seasoned product leader with experience leading AI programs end-to-end acr
 
 ---
 
-## ⚙️ Technical Fluency
+## Technical Fluency
 - **Languages & Tools:** Python, SQL, R, Excel
 - **Tools:** Power BI, Tableau, Co-Pilot, Azure, Claude Code, Adobe Analytics & Experience Platform, Zapier, Power Automate, Figma, Rally, Jira
 - **Product Skills:** Agile/Scrum Methods, requirements writing, system design collaboration, user flow mapping, API-adjacent comprehension  
