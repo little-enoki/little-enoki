@@ -1,5 +1,5 @@
 # Hi! I'm Tiffany 🌸
-I'm a seasoned product leader with experience leading AI programs end-to-end across strategy, architecture, model development, and analytics. I've managed roadmaps, cross-functional delivery, and large-scale digital platform development. I also leads strategic, clinical, and operational transformation work impacting patient outcomes and health system performance. I'm a proud Berkeley-Stanford graduate 🐻🌲 and outside of AI and product, you can find me sipping a matcha latte, exploring art museums, and sweating at hot yoga!
+I'm a seasoned product leader with experience leading AI programs end-to-end across strategy, architecture, model development, and analytics. I've managed roadmaps, cross-functional delivery, and large-scale digital platform development. I also lead strategic, clinical, and operational transformation work impacting patient outcomes and health system performance. I'm a proud Berkeley-Stanford graduate 🐻🌲 and outside of AI and product, you can find me sipping a matcha latte, exploring art museums, and sweating at hot yoga! 🍵🖼️🧘🏻‍♀️
 
 ---
 
